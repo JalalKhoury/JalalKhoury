@@ -1,3 +1,3 @@
-I am Jalal El Khoury a mechanical engineer. I am interested in data analysis and currently learning data analysis on Python. I am looking to collaborate on everything
-related to Python and specifically in the data analysis field.
-You can reach reach me on my email: jalal.khoury.95@gmail.com
+I am an Industrial and Logistics engineer with a strong interest in applying blockchain and Web3 technologies to real-world industrial and business challenges. I build smart-contract prototypes using Solidity and Hardhat, focusing on how decentralized systems can enhance supply-chain processes such as procurement, invoicing, payments, traceability, coordination between actors, and trust automation. My background combines engineering rigor with practical operational thinking, allowing me to translate complex supply-chain workflows into clear, auditable, and programmable logic on-chain. I use GitHub to publish clean, documented, and test-driven projects that explore the intersection of supply chain, finance, and decentralized technologies.
+
+📧 Email: Jalal.khoury.95@gmail.com
